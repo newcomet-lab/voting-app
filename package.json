@@ -43,12 +43,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dereje1/Voting-App.git"
+    "url": "git+https://github.com/newcomet-lab/voting-App.git"
   },
   "author": "Dereje Getahun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dereje1/Voting-App/issues"
+    "url": "https://github.com/newcomet-lab/voting-App/issues"
   },
-  "homepage": "https://github.com/Dereje1/Voting-App#readme"
+  "homepage": "https://github.com/newcomet-lab/voting-App#readme"
 }
